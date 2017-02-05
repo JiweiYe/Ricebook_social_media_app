@@ -1,0 +1,5 @@
+{ 
+    "netid": "jy54",
+  	"frontend": "http://jy-ricebook.surge.sh/",
+  	"backend": "https://mighty-reef-86521.herokuapp.com/"
+}

@@ -1,0 +1,261 @@
+
+
+.indextable{
+    width:30%;
+    border:3px solid rgb(80,50,169);
+    border-radius: 1em;
+    padding: 0.3em;
+    margin: 0.1em;
+
+}
+
+.alert_landing{
+   color: rgb(80,50,169);
+   font-weight: bold;
+}
+
+.titlefont{
+  font-size: 18px;
+}
+
+.headline{
+    font-style: italic ;
+}
+
+button {
+  color: #fff;
+  background-color: #5bc0de;
+  border-color: #46b8da;
+  width: 160px;
+  height: 22px;
+  font-size: 14px;
+  border-radius: 0.3em;
+  margin-right: 15px;
+}
+
+#leftbar {
+  width: 20%;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    border-radius: 25px;
+    float: left;
+}
+
+#leftbar img {
+    height:80%; 
+    width:80%;
+  border-radius: 5px 5px 0 0;   
+}
+
+#rightbar {
+    border-collapse: collapse;
+    width: 75%;
+    align-content: center;
+    margin-left:25%; 
+
+}
+
+#logoutbtn{
+  color: #fff;
+  background-color: #5bc0de;
+  border-color: #46b8da;
+  width: 150px;
+  height: 22px;
+  font-size: 14px;
+  border-radius: 0.3em;
+  padding-bottom:15px;
+
+  margin-left: 30px;
+}
+
+.username{
+  font-weight: bold;
+}
+
+.headline{
+  font-style: italic ;
+  font-weight: bold;
+}
+
+#searchbox{
+  width: 44%;
+}
+
+body {
+    background-image: url(image.jpg);
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: center top;
+}
+
+#cardUserImage{
+  width: 12%;
+  height: 12%;
+}
+
+#postImage{
+  width:70%; 
+  height:70%;
+}
+
+#commentfollowerImage{
+  width: 12%;
+  height: 12%;
+}
+
+#profilefunction{
+  width:20%;
+  margin-left: 10%;
+  margin-top: 5%;
+  float: left;
+  align: center;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  border-radius: 25px;
+}
+
+#right_part{
+  border:3px solid rgb(80,50,169);
+  border-radius: 25px;
+  width:30%;
+  float: right;
+  margin-right: 20%;
+  margin-top: 6%;
+  align: center;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  border-radius: 25px;
+}
+
+
+
+#profileUpdate span{
+  width: 100%;
+}
+
+#profileUpdate input{
+  width: 100%;
+}
+
+#updateImagebtn {
+  color: #fff;
+  background-color: #5bc0de;
+  border-color: #46b8da;
+  width: 200px;
+  height: 22px;
+  font-size: 14px;
+  border-radius: 0.3em
+}
+
+
+
+
+
+
+
+.functiondiv{
+    padding-bottom: 20px;
+}
+
+.inputbtn {
+  color: #fff;
+  background-color: #5bc0de;
+  border-color: #46b8da;
+  width: 80px;
+  height: 30px;
+  font-size: 14px;
+  border-radius: 0.3em;
+}
+
+.border{
+    border:3px solid rgb(80,50,169);
+    border-radius: 1em;
+    padding: 0.3em;
+    margin: 0.1em;
+
+}
+
+
+.indexbody{
+    font-size: 18px;
+}
+
+.pagetitle{
+    color: rgb(80,50,169);
+}
+
+
+
+
+
+.long_btn {
+  color: #fff;
+  background-color: #5bc0de;
+  border-color: #46b8da;
+  width: 80%;
+  height: 22px;
+  font-size: 14px;
+  border-radius: 0.3em;
+  padding-bottom:15px;
+}
+
+#post {
+    background-color:rgb(80,50,169);
+    font-size: 2em;
+    color: rgb(200,0,0);
+}
+
+.card {
+    box-shadow: 0 5px 10px 10px rgba(0,0,0,0.3); 
+    width: 90%;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    border-radius: 25px;
+    float: left;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.card img{
+    width: 90%;
+    height: 90%;
+}
+
+#profileimage{
+  width: 90%;
+  height: 90%;
+
+}
+
+.follower {
+    padding-bottom: 1em;
+}
+
+#r1c1 {background-color: rgb(252,136,136)}
+#r1c2 {background-color:  #ffd966}
+#r2c1 {background-color:  #b6d7a8}
+#r2c2 {background-color:  #c27ba0}
+#r3c1 {background-color: rgb(252,136,136)}
+#r3c2 {background-color:  #ffd966}
+#r4c1 {background-color:  #b6d7a8}
+#r4c2 {background-color:  #c27ba0}
+#r5c1 {background-color: rgb(252,136,136)}
+
+
+
+span {
+    font-weight: bold
+}
+#facebook_button{
+  background-color: #0000CD;
+  border-color: #0000CD;
+}
